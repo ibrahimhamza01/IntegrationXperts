@@ -1,0 +1,12 @@
+# Large files (handled separately)
+*.pt
+*.docx
+*.pptx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / temp
+.DS_Store
+Thumbs.db
+.~lock*
