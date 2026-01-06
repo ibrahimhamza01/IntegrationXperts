@@ -84,7 +84,7 @@ pip install -r requirements.txt
 
 4. Download YOLO weights from Hugging Face before running training/inference.
 
-##Notes
+## Notes
 
 1. Models trained on full-length images after dataset improvement
 
